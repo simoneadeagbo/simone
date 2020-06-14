@@ -1,4 +1,4 @@
-project (hello_world)
+project (1205_Hello_World)
 
 # create individual projects
-add_executable(hello_world hello_world.cpp)
+add_executable(1205_Hello_World 1205_Hello_World.c)
